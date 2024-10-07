@@ -1,1 +1,1 @@
-mon fichier est modifier par hotfix/correction-bug branch
+1-mon mon mon fichier est modifier par la nouvelle fonctionnalite                   1+1mon fichier est modifier par hotfix/correction-bug branch
